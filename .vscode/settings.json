@@ -1,0 +1,29 @@
+{
+  "editor.tabSize": 4,
+  "editor.trimAutoWhitespace": true,
+  "editor.rulers": [
+    100
+  ],
+  "files.eol": "\n",
+  "files.exclude": {
+    "**/.DS_Store": true,
+    "**/.git": true,
+    "**/.hg": true,
+    "**/.svn": true,
+    "**/CVS": true,
+    "**/lerna-*": true,
+    "**/storybook-static": true,
+    "**/yarn-*": true
+  },
+  "files.insertFinalNewline": true,
+  "files.trimTrailingWhitespace": true,
+  "typescript.tsdk": "node_modules/typescript/lib",
+  "eslint.probe": [
+    "javascript",
+    "javascriptreact",
+    "typescript",
+    "typescriptreact",
+    "html",
+    "markdown"
+  ]
+}

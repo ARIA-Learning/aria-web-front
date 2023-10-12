@@ -1,0 +1,7 @@
+# Build Files
+.github
+.next
+.vscode
+
+public
+node_modules
