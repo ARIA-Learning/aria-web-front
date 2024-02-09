@@ -1,5 +1,5 @@
 <!--- Provide a general summary of your changes in the Title above -->
-# [Ticket]()
+# [Ticket]() or Issue
 
 ## Description
 <!--- Describe your changes in detail -->
